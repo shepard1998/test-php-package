@@ -1,6 +1,7 @@
 {
   "name": "shepard41/test-package",
   "description": "Some test package",
+  "version": "1.0.0",
   "type": "library",
   "license": "MIT",
   "authors": [
