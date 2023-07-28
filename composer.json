@@ -2,7 +2,7 @@
   "name": "shepard41/test-package",
   "description": "Some test package",
   "type": "library",
-  "license": "Mine",
+  "license": "MIT",
   "authors": [
     {
       "name": "Kevin Fernandez",
